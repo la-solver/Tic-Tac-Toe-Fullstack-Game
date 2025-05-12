@@ -548,7 +548,7 @@ This guide enables you to view, test, and utilize the API. Feel free to explore 
 
 1. Clone the repository and navigate to the backend folder:
    ```bash
-   git clone https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game.git
+   git clone https://github.com/la-solver/Tic-Tac-Toe-Fullstack-Game.git
    cd Tic-Tac-Toe-Fullstack-Game/backend
    ```
 2. Install dependencies:
@@ -623,11 +623,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## **Author**
 
-- **[Son Nguyen](https://github.com/hoangsonww)**
+- **[Leo Amilie](https://github.com/la-solver)**
 - Feel free to reach out with any questions or suggestions.
 
 ---
 
-**Created in 2024 with ❤️ by [Son Nguyen](https://github.com/hoangsonww)**
+**Created in 2024 with ❤️ by [Leo Amilie](https://github.com/la-solver)**
 
 [🔝 Back to Top](#docuthinker---ai-powered-document-analysis-and-summarization-app)
