@@ -81,7 +81,7 @@ Security is an ongoing process. Tic-Tac-Toe Pro App is committed to continuously
 
 ## Contact Information
 
-For any queries or concerns regarding security, please contact me at [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any queries or concerns regarding security, please contact me at [leo.amilie.eth@gmail.com](mailto:leo.amilie.eth@gmail.com).
 
 ---
 
